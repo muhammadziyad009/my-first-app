@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="remmember_me">Remmember Me</string>
+    <string name="login">Login</string>
+    <string name="forgot_the_password">Forgot the password?</string>
+    <string name="or_login_with">or login with</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="full_name">Full Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="alert_message">Your account is ready to use. You will \nbe redirected to the Home page in a \nfew seconds..</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="add_a_pin_number_to_make_sure_your_account_stay_more_secure">add a pin number to make sure your account \nstay more secure</string>
+    <string name="add_a_fingerprint_to_make_your_account_more_secure">Add a fingerprint to make your account \nmore secure</string>
+    <string name="please_put_your_finger_on_fingerprint_scanner_to_get_started">Please put your finger on fingerprint \nscanner to get started</string>
+    <string name="continue_">Continue</string>
+    <string name="skip">Skip</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+</resources>
